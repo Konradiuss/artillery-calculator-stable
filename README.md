@@ -29,7 +29,7 @@ positions, and various artillery types.
 
 1. Clone repository:
 ```bash
-git clone https://github.com/your-username/artillery-calculator.git
+git clone https://github.com/your-username/artillery-calculator-stable.git
 ```
 
 2. Install dependencies:
@@ -102,7 +102,7 @@ MIT License
 
 1. Клонуйте репозиторій:
 ```bash
-git clone https://github.com/your-username/artillery-calculator.git
+git clone https://github.com/your-username/artillery-calculator-stable.git
 ```
 
 2. Встановіть залежності:
