@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/artillery-calculator-stable/static/css/main.1619ded6.css",
+    "main.js": "/artillery-calculator-stable/static/js/main.3cc3afcd.js",
+    "static/js/488.043354ef.chunk.js": "/artillery-calculator-stable/static/js/488.043354ef.chunk.js",
+    "index.html": "/artillery-calculator-stable/index.html",
+    "main.1619ded6.css.map": "/artillery-calculator-stable/static/css/main.1619ded6.css.map",
+    "main.3cc3afcd.js.map": "/artillery-calculator-stable/static/js/main.3cc3afcd.js.map",
+    "488.043354ef.chunk.js.map": "/artillery-calculator-stable/static/js/488.043354ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1619ded6.css",
+    "static/js/main.3cc3afcd.js"
+  ]
+}
