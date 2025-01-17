@@ -1,7 +1,7 @@
 
 # Artillery Spotter Calculator 🎯
 
-[🇺🇦 Українська версія нижче | Ukrainian version below]
+[🇺🇦 Українська версія нижче | Ukrainian version below](#калькулятор-наведення-артилерії-)
 
 ## Description
 Artillery Spotter Calculator is a web application designed to assist with artillery calculations
@@ -29,15 +29,15 @@ positions, and various artillery types.
 
 1. Clone repository:
 ```bash
-git clone https://github.com/your-username/artillery-calculator.git
+git clone https://github.com/your-username/artillery-calculator-stable.git
 ```
-```markdown
+
 2. Install dependencies:
 ```bash
 cd artillery-calculator
 npm install
 ```
-```markdown
+
 3. Run project:
 ```bash
 npm start
@@ -102,15 +102,15 @@ MIT License
 
 1. Клонуйте репозиторій:
 ```bash
-git clone https://github.com/your-username/artillery-calculator.git
+git clone https://github.com/your-username/artillery-calculator-stable.git
 ```
-```markdown
+
 2. Встановіть залежності:
 ```bash
 cd artillery-calculator
 npm install
 ```
-```markdown
+
 3. Запустіть проект:
 ```bash
 npm start
