@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/artillery-calculator-stable/static/css/main.1619ded6.css",
-    "main.js": "/artillery-calculator-stable/static/js/main.8dd4eb9d.js",
+    "main.js": "/artillery-calculator-stable/static/js/main.c1ebd781.js",
     "static/js/488.043354ef.chunk.js": "/artillery-calculator-stable/static/js/488.043354ef.chunk.js",
     "index.html": "/artillery-calculator-stable/index.html",
     "main.1619ded6.css.map": "/artillery-calculator-stable/static/css/main.1619ded6.css.map",
-    "main.8dd4eb9d.js.map": "/artillery-calculator-stable/static/js/main.8dd4eb9d.js.map",
+    "main.c1ebd781.js.map": "/artillery-calculator-stable/static/js/main.c1ebd781.js.map",
     "488.043354ef.chunk.js.map": "/artillery-calculator-stable/static/js/488.043354ef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1619ded6.css",
-    "static/js/main.8dd4eb9d.js"
+    "static/js/main.c1ebd781.js"
   ]
 }
